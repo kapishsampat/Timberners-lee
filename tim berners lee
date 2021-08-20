@@ -1,0 +1,39 @@
+<html>
+
+<head>
+    <title>sir time berners-lee</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section id="welcome" class="parallax-container">
+        <div class="parallax-inner">
+            <img id="timberners-lee" src="Sir_Tim_Berners-Lee_(cropped).jpg">
+            <h1>HI I am <br> <span id="name">Tim Berners-Lee</span></h1>
+            <h2> I am the founder of WWW ,AKA world wide web</h2>
+        </div>
+    </section>
+    <section id="bio">
+        <h1>HI!</h1>
+        <div class="line"></div>
+    <p>How did Tim Berners-Lee invent the Internet?<br>
+        Tim berners lee image result
+While working at CERN, the European Particle Physics Laboratory, Tim Berners-Lee invented the World Wide Web, an Internet-based hypermedia initiative for global information sharing, in 1989. In 1990, he created the first web client and server. As web technology advanced, his specifications for URIs, HTTP, and HTML were refined.</p>
+    
+    
+    
+    
+    
+    </section>
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
